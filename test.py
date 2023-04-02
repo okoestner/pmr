@@ -1,4 +1,4 @@
 import settings as SET
 
 
-print ("Database: " + SET.db)
+print ("Database : " + SET.db)
